@@ -66,8 +66,6 @@ CREATE TABLE `feedback` (
 -- Dumping data for table `feedback`
 --
 
-INSERT INTO `feedback` (`id`, `email`, `message`, `submitted_at`) VALUES
-(1, 'fattehaliabbasali22102005@gmail.com', 'best hotel service.', '2025-07-13 05:55:28');
 
 -- --------------------------------------------------------
 
